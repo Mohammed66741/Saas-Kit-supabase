@@ -1,12 +1,12 @@
 'use client';
 
-import config from '@/lib/config/site';
+import siteConfig from '@/lib/config/site';
 import Link from 'next/link';
 import { SocialIcons } from './Icons';
 import configuration from '@/lib/config/site';
 import { Input } from './ui/Input';
 import { Button } from './ui/Button';
-
+import marketingConfig from '@/lib/config/marketing';
 export default function Footer() {
  // const { footer_nav } = config;
 
