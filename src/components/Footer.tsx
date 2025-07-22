@@ -1,6 +1,6 @@
 'use client';
 
-import config from '@/lib/config/marketing';
+//import config from '@/lib/config/marketing';
 import Link from 'next/link';
 import { SocialIcons } from './Icons';
 import configuration from '@/lib/config/site';
