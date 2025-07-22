@@ -8,7 +8,7 @@ import { Input } from './ui/Input';
 import { Button } from './ui/Button';
 
 export default function Footer() {
-  const { footer_nav } = config;
+ // const { footer_nav } = config;
 
   return (
     <footer className="bg-slate-800 mt-8">
