@@ -1,4 +1,4 @@
-export const config = {
+const config = {
   about: {
     title: 'About',
   },
@@ -6,5 +6,6 @@ export const config = {
     { title: 'Pricing', link: '/pricing' },
     { title: 'FAQ', link: '/faq' },
   ],
-}
+};
 
+export default config;
